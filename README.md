@@ -1,8 +1,8 @@
 ## Hi, welcome to my github👋 ;
 ✨ Connect with me ✨ <br> <br>
 [![Gmail Badge](https://img.shields.io/badge/-agusgokasi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agusgokasi@gmail.com)](mailto:agusgokasi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-agusgokasi?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agusgokasi/)](https://www.linkedin.com/in/agusgokasi/) 
-[![Github Badge](https://img.shields.io/badge/-agusgokasi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/agusgokasi/)](https://www.github.com/agusgokasi/) [![Twitter Badge](https://img.shields.io/badge/-agusgokasi?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/agusgokasi/)](https://www.twitter.com/agusgokasi/) <p align='left'>⚡⚡⚡ Long Life Learner ⚡⚡⚡ </p> 
+[![Linkedin Badge](https://img.shields.io/badge/-agusgokasi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agusgokasi/)](https://www.linkedin.com/in/agusgokasi/) 
+[![Github Badge](https://img.shields.io/badge/-agusgokasi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/agusgokasi/)](https://www.github.com/agusgokasi/) [![Twitter Badge](https://img.shields.io/badge/-agusgokasi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/agusgokasi/)](https://www.twitter.com/agusgokasi/) <p align='left'>⚡⚡⚡ Long Life Learner ⚡⚡⚡ </p> 
 ## Some of my github stats
 [![Github](https://img.shields.io/github/followers/agusgokasi?label=Followers&logo=Github)](https://github.com/agusgokasi)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=agusgokasi)
