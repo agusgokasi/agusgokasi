@@ -2,7 +2,7 @@
 ✨ Connect with me ✨ <br> <br>
 [![Gmail Badge](https://img.shields.io/badge/-agusgokasi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agusgokasi@gmail.com)](mailto:agusgokasi@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-agusgokasi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agusgokasi/)](https://www.linkedin.com/in/agusgokasi/) 
-[![Github Badge](https://img.shields.io/badge/-agusgokasi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/agusgokasi/)](https://www.github.com/agusgokasi/) [![facebook Badge](https://img.shields.io/badge/-agusgokasi-3b5998?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/agusgokasi/)](https://www.facebook.com/agusgokasi/) <p align='left'>⚡⚡⚡ Long Life Learner ⚡⚡⚡ </p> 
+[![Github Badge](https://img.shields.io/badge/-agusgokasi1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/agusgokasi/)](https://www.github.com/agusgokasi/) [![facebook Badge](https://img.shields.io/badge/-agusgokasi1-3b5998?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/agusgokasi1/)](https://www.facebook.com/agusgokasi1/) <p align='left'>⚡⚡⚡ Long Life Learner ⚡⚡⚡ </p> 
 ## Some of my github stats
 [![Github](https://img.shields.io/github/followers/agusgokasi?label=Followers&logo=Github)](https://github.com/agusgokasi)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=agusgokasi)
